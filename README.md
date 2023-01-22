@@ -6,7 +6,7 @@ Welcome!
 
 The goal of this assignment is to start to become familiar with input, output, data types, and operations in Java.
 
-Complete the code according to the instructions written as comments within each of the `.java` source code files in the `src` dirwctory.
+Complete the code according to the instructions written as comments within each of the `.java` source code files in the `src` directory.
 
 ### Folder structure
 
