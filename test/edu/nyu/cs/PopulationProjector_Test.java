@@ -15,7 +15,8 @@ import org.junit.ClassRule;
 public class PopulationProjector_Test {
 
     // @Rule
-    // public final TextFromStandardInputStream systemInMock = emptyStandardInputStream();
+    // public final TextFromStandardInputStream systemInMock =
+    // emptyStandardInputStream();
 
     @ClassRule
     public static final TextFromStandardInputStream systemInMock = emptyStandardInputStream();
@@ -25,11 +26,11 @@ public class PopulationProjector_Test {
 
     String[] expecteds = {
             "Here are the projected population numbers for the next five years:",
-            "- Year 2023: 335183746",
-            "- Year 2024: 337963842",
-            "- Year 2025: 340743938",
-            "- Year 2026: 343524034",
-            "- Year 2027: 346304130"
+            "- Year 2024: 335636750",
+            "- Year 2025: 336972650",
+            "- Year 2026: 338308550",
+            "- Year 2027: 339644450",
+            "- Year 2028: 340980350"
     };
 
     @Test
